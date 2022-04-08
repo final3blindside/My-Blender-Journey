@@ -1,0 +1,31 @@
+
+/* #001730 #4AD7D1 #FE4A49 
+    Poppins - For TITLES
+    Merriweather Sans - For SUBTITLES / ARTICLE TITLES
+    Martel  - For GENERAL TEXT
+*/
+
+    @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@800&display=swap');
+    @import url('https://fonts.googleapis.com/css2?family=Martel:wght@300&display=swap');
+    @import url('https://fonts.googleapis.com/css2?family=Merriweather+Sans:wght@800&display=swap');
+
+body{
+    background-color: #001730;
+    color: cornsilk;
+}
+
+.title{
+    font-family:Poppins;
+    text-align:center;
+    font-size: 50px;
+}
+
+.subtitle-or-article-title{
+    font-family: Merriweather Sans;
+    text-align:left;
+}
+
+.general-text{
+    font-family: Martel;
+    text-align: left;
+}
